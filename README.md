@@ -3,6 +3,6 @@ Random practice repo for golang courses from udemy.com
 
 ![golang](https://raw.githubusercontent.com/oporas/golang-practice/master/go.png)
 
-My notes for:
+My notes and training projects for:
 - Todd McLeod: Learn How To Code: Google's Go (golang) Programming Language
 - Todd McLeod: Web Development w/ Google’s Go (golang) Programming Language
