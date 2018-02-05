@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>foo</title>
+</head>
+<body>
+{{if .First}}
+    USER NAME {{.UserName}}<br />
+    Password {{.Password}}<br />
+    FIRST NAME {{.First}}<br />
+    LAST NAME {{.Last}}<br />
+    <br />
+    <a href="/bar">Bar</a><br />
+    <a href="/logout">Logout</a><br />
+{{else}}
+    <a href="/login">Login</a><br />
+    <a href="/signup">Sign up</a><br />
+{{end}}
+
+</body>
+</html>
